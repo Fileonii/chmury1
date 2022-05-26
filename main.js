@@ -20,6 +20,7 @@ app.get("/", (req, res) => {
   res.send({
     ip: ip,
     client: req.headers.host,
+    student: student,
     timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
     currentTime: data.toLocaleTimeString(),
   });
