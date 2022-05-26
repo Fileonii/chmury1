@@ -1,0 +1,13 @@
+{
+  "name": "chmura_lab2",
+  "version": "1.0.0",
+  "description": "Zadanie nr.1 chmura",
+  "author": "Filip Jaslikowski",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
