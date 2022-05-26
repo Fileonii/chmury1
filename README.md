@@ -3,6 +3,8 @@
 ### 1. Proszę napisać program serwera (dowolny język programowania) [...]
 Opracowany został serwer node (w pliku main.js kod serwera), który wyświetla JSON :
 ![ZDJ](zdjecie1.PNG)
+
+
 komendy potrzebne aby uruchomic:
 ```sh
 npm i 
